@@ -1,3 +1,15 @@
+.contents {
+		
+		border: 3px solid black;
+		
+}
+
+body {
+	
+	background-color: rgb(79, 97, 214);
+	
+}
+
 .RedText {
 	
 	color: red;
@@ -31,5 +43,28 @@
 .purple {
 	
 	color: rgb(255, 0, 255);
+	
+}
+
+
+#Jump {
+	
+	position: relative;
+	left: 5px;
+	text-decoration: underline;
+	
+}
+
+#ToTop {
+	
+	position: fixed;
+	top: 780px;
+	left: 1250px;
+	
+}
+
+#linktoa {
+	
+	font-size:2em;
 	
 }
